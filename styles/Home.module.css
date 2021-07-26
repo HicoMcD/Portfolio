@@ -1,4 +1,6 @@
 .container {
+  background-color: rgb(9, 6, 12);
+  color: whitesmoke;
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
